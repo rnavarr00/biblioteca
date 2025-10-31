@@ -85,7 +85,7 @@
 
 <div class="container mt-4">
     <h2 class="text-primary mb-3">
-        <i class="fas fa-comments mr-2"></i>Valoraciones
+        <i class="fas fa-comments mr-2"></i>Opiniones
     </h2>
 </div>
 <!-- Valoraciones de los usuarios -->
